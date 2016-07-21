@@ -281,7 +281,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "2833636d-47fa-4133-b9bc-5f5dc3fb9e63";
+				PROVISIONING_PROFILE = "8658f342-f583-464b-a911-c34f54013307";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -321,7 +321,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "2833636d-47fa-4133-b9bc-5f5dc3fb9e63";
+				PROVISIONING_PROFILE = "8658f342-f583-464b-a911-c34f54013307";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -334,7 +334,7 @@
 				INFOPLIST_FILE = Test_Team/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = in.co.kcspl.Test;
+				PRODUCT_BUNDLE_IDENTIFIER = in.co.kcspl.feedmaster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -346,7 +346,7 @@
 				INFOPLIST_FILE = Test_Team/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = in.co.kcspl.Test;
+				PRODUCT_BUNDLE_IDENTIFIER = in.co.kcspl.feedmaster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
