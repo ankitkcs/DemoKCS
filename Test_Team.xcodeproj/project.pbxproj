@@ -258,8 +258,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Vishal Shukla (MAZ9G96928)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Vishal Shukla (MAZ9G96928)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Stojan Gorgiev (UZWBP8H87P)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Stojan Gorgiev (UZWBP8H87P)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -281,7 +281,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "2e3e7657-084b-4781-80aa-47bc5fbad6a0";
+				PROVISIONING_PROFILE = "2b278455-5fce-44c6-8830-d87c74b59f5a";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -305,8 +305,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Vishal Shukla (MAZ9G96928)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Vishal Shukla (MAZ9G96928)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Stojan Gorgiev (UZWBP8H87P)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Stojan Gorgiev (UZWBP8H87P)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -321,7 +321,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "2e3e7657-084b-4781-80aa-47bc5fbad6a0";
+				PROVISIONING_PROFILE = "2b278455-5fce-44c6-8830-d87c74b59f5a";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -334,7 +334,7 @@
 				INFOPLIST_FILE = Test_Team/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = in.co.kcspl.feedmaster;
+				PRODUCT_BUNDLE_IDENTIFIER = com.whatsup.magniutdegold;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -346,7 +346,7 @@
 				INFOPLIST_FILE = Test_Team/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = in.co.kcspl.feedmaster;
+				PRODUCT_BUNDLE_IDENTIFIER = com.whatsup.magniutdegold;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
